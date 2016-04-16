@@ -1,0 +1,200 @@
+No change to queues
+q1:
+q2:
+q3:
+
+Customer 1 added to queue 1
+q1: *
+q2:
+q3:
+
+Customer 2 added to queue 2
+q1: *
+q2: *
+q3:
+
+No change to queues
+q1: *
+q2: *
+q3:
+
+Customer 3 added to queue 3
+q1: *
+q2: *
+q3: *
+
+Customer 4 added to queue 1
+q1: **
+q2: *
+q3: *
+
+Customer 5 added to queue 2
+q1: **
+q2: **
+q3: *
+
+Customer 3 removed from queue 3
+q1: **
+q2: **
+q3:
+
+Customer 6 added to queue 3
+q1: **
+q2: **
+q3: *
+
+Customer 2 removed from queue 2
+q1: **
+q2: *
+q3: *
+
+Customer 7 added to queue 2
+q1: **
+q2: **
+q3: *
+
+Customer 5 removed from queue 2
+q1: **
+q2: *
+q3: *
+
+Customer 7 removed from queue 2
+q1: **
+q2:
+q3: *
+
+No change to queues
+q1: **
+q2:
+q3: *
+
+Customer 8 added to queue 2
+q1: **
+q2: *
+q3: *
+
+Customer 9 added to queue 2
+q1: **
+q2: **
+q3: *
+
+Customer 1 removed from queue 1
+q1: *
+q2: **
+q3: *
+
+Customer 8 removed from queue 2
+q1: *
+q2: *
+q3: *
+
+Customer 9 removed from queue 2
+q1: *
+q2:
+q3: *
+
+Customer 4 removed from queue 1
+q1:
+q2:
+q3: *
+
+Customer 6 removed from queue 3
+q1:
+q2:
+q3:
+
+Customer 10 added to queue 1
+q1: *
+q2:
+q3:
+
+Customer 11 added to queue 2
+q1: *
+q2: *
+q3:
+
+Customer 12 added to queue 3
+q1: *
+q2: *
+q3: *
+
+Customer 13 added to queue 1
+q1: **
+q2: *
+q3: *
+
+Customer 14 added to queue 2
+q1: **
+q2: **
+q3: *
+
+Customer 10 removed from queue 1
+q1: *
+q2: **
+q3: *
+
+Customer 11 removed from queue 2
+q1: *
+q2: *
+q3: *
+
+Customer 15 added to queue 1
+q1: **
+q2: *
+q3: *
+
+Customer 16 added to queue 2
+q1: **
+q2: **
+q3: *
+
+Customer 17 added to queue 3
+q1: **
+q2: **
+q3: **
+
+Customer 13 removed from queue 1
+q1: *
+q2: **
+q3: **
+
+Customer 12 removed from queue 3
+q1: *
+q2: **
+q3: *
+
+Customer 15 removed from queue 1
+q1:
+q2: **
+q3: *
+
+No change to queues
+q1:
+q2: **
+q3: *
+
+Customer 18 added to queue 1
+q1: *
+q2: **
+q3: *
+
+Customer 14 removed from queue 2
+q1: *
+q2: *
+q3: *
+
+Customer 17 removed from queue 3
+q1: *
+q2: *
+q3:
+
+Customer 19 added to queue 3
+q1: *
+q2: *
+q3: *
+
+Customer 20 added to queue 1
+q1: **
+q2: *
+q3: *
+q

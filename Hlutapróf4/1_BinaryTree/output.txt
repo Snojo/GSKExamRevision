@@ -1,0 +1,23 @@
+Height: -1
+Number of nodes: 0
+Inorder:
+Preorder:
+Postorder:
+
+Height: 0
+Number of nodes: 1
+Inorder: +
+Preorder: +
+Postorder: +
+
+Height: 2
+Number of nodes: 7
+Inorder: 6 * 2 + 5 - 3
+Preorder: + * 6 2 - 5 3
+Postorder: 6 2 * 5 3 - +
+
+Height: 3
+Number of nodes: 11
+Inorder: 3 + 1 * 4 + 9 - 5 + 2
+Preorder: + * + 3 1 4 + - 9 5 2
+Postorder: 3 1 + 4 * 9 5 - 2 + +

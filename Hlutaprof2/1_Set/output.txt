@@ -1,0 +1,17 @@
+Set size: 8
+Set elements: 3 4 7 8 1 2 9 5
+Found element 1
+Removing element 7
+Set elements: 3 4 8 1 2 9 5
+
+Set size: 5
+Set elements: 5 4 3 2 1
+Did not find element 0
+Removing element 0
+Set elements: 5 4 3 2 1
+
+Set size: 7
+Set elements: 3 1 6 7 2 4 8
+Found element 8
+Removing element 3
+Set elements: 1 6 7 2 4 8

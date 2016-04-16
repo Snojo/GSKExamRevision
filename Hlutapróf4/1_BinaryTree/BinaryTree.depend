@@ -1,0 +1,334 @@
+# depslib dependency file v1.0
+1300197831 source:n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\main.cpp
+	<iostream>
+	"binarytreeattachable.cpp"
+	"binarysearchtree.cpp"
+
+1300128896 rchtree.cpp"
+
+1300197751 n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1364213735 e.h"
+
+1300198277 n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarytree.h
+	"binarynode.h"
+
+1300198765 n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarynode.h
+	<cstdlib>
+
+1364164757 
+
+1300197751 source:n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1300137857 source:n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarynode.cpp
+	<iostream>
+	"binarynode.h"
+
+1300137857 n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarynode.cpp
+	<iostream>
+	"binarynode.h"
+
+1300118005 n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\treeexception.h
+	<string>
+
+1300051814 n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\basebinarytree.h
+	"binarynode.h"
+
+1300049571 n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\basebinarytree.cpp
+	"basebinarytree.h"
+	"binarynode.cpp"
+
+1364164841 e.cpp"
+
+1300141752 source:n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"binarytree.cpp"
+
+1300141365 n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarysearchtree.h
+	"binarytree.h"
+
+1300141752 n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"binarytree.cpp"
+
+1300198481 source:n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1300198230 n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarytreeattachable.h
+	"binarytree.h"
+	"treeexception.h"
+
+1364164769 tion.h"
+
+1300115054 source:c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1300114934 c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarytreeattachable.h
+	"binarytree.h"
+	"treeexception.h"
+
+1300132473 c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarytree.h
+	"binarynode.h"
+
+1300133278 c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarynode.h
+	<cstdlib>
+
+1300118005 c:\ru\gagnaskipan\fyrirlestrar\binarytree\treeexception.h
+	<string>
+
+1300133382 c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarytree.cpp
+	"binarytree.h"
+	"binarynode.cpp"
+
+1300133359 c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarynode.cpp
+	<iostream>
+	"binarynode.h"
+
+1300128967 source:c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"binarytree.cpp"
+
+1300123612 c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarysearchtree.h
+	"binarytree.h"
+
+1300118659 source:c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarytree.cpp
+	"binarytree.h"
+	"binarynode.cpp"
+
+1300111875 source:c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarynode.cpp
+	<iostream>
+	"binarynode.h"
+
+1300128896 source:c:\ru\gagnaskipan\fyrirlestrar\binarytree\main.cpp
+	<iostream>
+	"binarytreeattachable.cpp"
+	"binarysearchtree.cpp"
+
+1300115054 c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1300128967 c:\ru\gagnaskipan\fyrirlestrar\binarytree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"binarytree.cpp"
+
+1300198414 n:\namskeid\gagnaskipan\fyrirlestrar\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1300198481 source:n:\namskeid\gagnaskipan\daematimar\vika11\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1300198230 n:\namskeid\gagnaskipan\daematimar\vika11\binarytree\binarytreeattachable.h
+	"binarytree.h"
+	"treeexception.h"
+
+1300205748 n:\namskeid\gagnaskipan\daematimar\vika11\binarytree\binarytree.h
+	"binarynode.h"
+
+1300198765 n:\namskeid\gagnaskipan\daematimar\vika11\binarytree\binarynode.h
+	<cstdlib>
+
+1300118005 n:\namskeid\gagnaskipan\daematimar\vika11\binarytree\treeexception.h
+	<string>
+
+1300546589 n:\namskeid\gagnaskipan\daematimar\vika11\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1300361967 source:n:\namskeid\gagnaskipan\daematimar\vika11\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1300362384 source:n:\namskeid\gagnaskipan\daematimar\vika11\binarytree\main.cpp
+	<iostream>
+	"binarytreeattachable.cpp"
+
+1364211620 eattachable.cpp"
+
+1300198481 n:\namskeid\gagnaskipan\daematimar\vika11\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1300198481 source:n:\namskeid\gagnaskipan\daematimar\2012\vika11\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1300198230 n:\namskeid\gagnaskipan\daematimar\2012\vika11\binarytree\binarytreeattachable.h
+	"binarytree.h"
+	"treeexception.h"
+
+1300205748 n:\namskeid\gagnaskipan\daematimar\2012\vika11\binarytree\binarytree.h
+	"binarynode.h"
+
+1300198765 n:\namskeid\gagnaskipan\daematimar\2012\vika11\binarytree\binarynode.h
+	<cstdlib>
+
+1300118005 n:\namskeid\gagnaskipan\daematimar\2012\vika11\binarytree\treeexception.h
+	<string>
+
+1300546589 n:\namskeid\gagnaskipan\daematimar\2012\vika11\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1300362384 source:n:\namskeid\gagnaskipan\daematimar\2012\vika11\binarytree\main.cpp
+	<iostream>
+	"binarytreeattachable.cpp"
+
+1300198481 n:\namskeid\gagnaskipan\daematimar\2012\vika11\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1300546589 source:n:\namskeid\gagnaskipan\daematimar\2012\vika11\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1364212855 source:n:\namskeid\gagnaskipan\daematimar\2013\vika11\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1364292168 n:\namskeid\gagnaskipan\daematimar\2013\vika11\binarytree\binarytree.h
+	"binarynode.h"
+
+1364164508 n:\namskeid\gagnaskipan\daematimar\2013\vika11\binarytree\binarynode.h
+	<cstdlib>
+
+1364164842 source:n:\namskeid\gagnaskipan\daematimar\2013\vika11\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1364164770 n:\namskeid\gagnaskipan\daematimar\2013\vika11\binarytree\binarytreeattachable.h
+	"binarytree.h"
+	"treeexception.h"
+
+1364164758 n:\namskeid\gagnaskipan\daematimar\2013\vika11\binarytree\treeexception.h
+	<string>
+
+1364406416 n:\namskeid\gagnaskipan\daematimar\2013\vika11\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1364292300 source:n:\namskeid\gagnaskipan\daematimar\2013\vika11\binarytree\main.cpp
+	<iostream>
+	"binarytreeattachable.cpp"
+
+1364164842 n:\namskeid\gagnaskipan\daematimar\2013\vika11\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1364292146 source:/home/hrafn/Namskeid/Gagnaskipan/Daematimar/Vika11/BinaryTree/binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1364292168 /home/hrafn/Namskeid/Gagnaskipan/Daematimar/Vika11/BinaryTree/binarytree.h
+	"binarynode.h"
+
+1364164508 /home/hrafn/Namskeid/Gagnaskipan/Daematimar/Vika11/BinaryTree/binarynode.h
+	<cstdlib>
+
+1364164842 source:/home/hrafn/Namskeid/Gagnaskipan/Daematimar/Vika11/BinaryTree/binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1364164770 /home/hrafn/Namskeid/Gagnaskipan/Daematimar/Vika11/BinaryTree/binarytreeattachable.h
+	"binarytree.h"
+	"treeexception.h"
+
+1364164758 /home/hrafn/Namskeid/Gagnaskipan/Daematimar/Vika11/BinaryTree/treeexception.h
+	<string>
+
+1364292393 /home/hrafn/Namskeid/Gagnaskipan/Daematimar/Vika11/BinaryTree/binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1364292300 source:/home/hrafn/Namskeid/Gagnaskipan/Daematimar/Vika11/BinaryTree/main.cpp
+	<iostream>
+	"binarytreeattachable.cpp"
+
+1364164842 /home/hrafn/Namskeid/Gagnaskipan/Daematimar/Vika11/BinaryTree/binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1364406416 source:n:\namskeid\gagnaskipan\fyrirlestrar\2016\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1364292168 n:\namskeid\gagnaskipan\fyrirlestrar\2016\binarytree\binarytree.h
+	"binarynode.h"
+
+1364164508 n:\namskeid\gagnaskipan\fyrirlestrar\2016\binarytree\binarynode.h
+	<cstdlib>
+
+1364164842 source:n:\namskeid\gagnaskipan\fyrirlestrar\2016\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1364164770 n:\namskeid\gagnaskipan\fyrirlestrar\2016\binarytree\binarytreeattachable.h
+	"binarytree.h"
+	"treeexception.h"
+
+1364164758 n:\namskeid\gagnaskipan\fyrirlestrar\2016\binarytree\treeexception.h
+	<string>
+
+1364406416 n:\namskeid\gagnaskipan\fyrirlestrar\2016\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1364292300 source:n:\namskeid\gagnaskipan\fyrirlestrar\2016\binarytree\main.cpp
+	<iostream>
+	"binarytreeattachable.cpp"
+
+1364164842 n:\namskeid\gagnaskipan\fyrirlestrar\2016\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1364164842 source:n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\binarytree\binarytreeattachable.cpp
+	"binarytreeattachable.h"
+	"binarytree.cpp"
+
+1364164770 n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\binarytree\binarytreeattachable.h
+	"binarytree.h"
+	"treeexception.h"
+
+1457904056 n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\binarytree\binarytree.h
+	<vector>
+
+1457878593 n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\binarytree\binarynode.h
+	<cstdlib>
+
+1364164758 n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\binarytree\treeexception.h
+	<string>
+
+1457896036 n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1457903760 source:n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\binarytree\binarytree.cpp
+	<iostream>
+	<algorithm>
+	"binarytree.h"
+
+1457903657 source:n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\binarytree\main.cpp
+	<iostream>
+	"binarytree.h"
+

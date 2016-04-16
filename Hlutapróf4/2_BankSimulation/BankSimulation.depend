@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1457870797 source:n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\banksimulation\bank.cpp
+	<iostream>
+	"bank.h"
+
+1457874396 n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\banksimulation\bank.h
+	<vector>
+	<queue>
+	"randgenerator.h"
+
+1457866717 n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\banksimulation\randgenerator.h
+
+1457868322 source:n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\banksimulation\main.cpp
+	<iostream>
+	"bank.h"
+	"randgenerator.h"
+
+1457874524 source:n:\namskeid\gagnaskipan\prof\2016\hlutaprof4\banksimulation\randgenerator.cpp
+	<cstdlib>
+	<ctime>
+	"randgenerator.h"
+
