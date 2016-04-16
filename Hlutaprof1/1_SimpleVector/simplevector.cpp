@@ -1,38 +1,38 @@
 #include "simplevector.h"
 
 template <class T>
-SimpleVector::SimpleVector(){
+SimpleVector<T>::SimpleVector(){
     
 }
 
 template <class T>
-SimpleVector::~SimpleVector(){
+SimpleVector<T>::~SimpleVector(){
     
 }
 
 template <class T>
-int SimpleVector::SimpleVector::size() const{
+int SimpleVector<T>::size() const{
+    return 0;
+}
+
+template <class T>
+void SimpleVector<T>::push_back (T elem){
     
 }
 
 template <class T>
-void SimpleVector::push_back (T elem){
+void SimpleVector<T>::remove(T elem){
     
 }
 
 template <class T>
-void SimpleVector::remove(T elem){
-    
+bool SimpleVector<T>::find(T elem, int& pos){
+    return 0;
 }
 
 template <class T>
-bool SimpleVector::find(T elem, int& pos){
-    
-}
-
-template <class T>
-T& SimpleVector::operator[] (int index){
-    
+T& SimpleVector<T>::operator[] (int index){
+    return arr[index];
 }
 
 
