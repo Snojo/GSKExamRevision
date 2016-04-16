@@ -11,27 +11,27 @@ SimpleVector::~SimpleVector(){
 }
 
 template <class T>
-int SimpleVector::size() const{
+int SimpleVector::SimpleVector::size() const{
     
 }
 
 template <class T>
-void push_back (T elem){
+void SimpleVector::push_back (T elem){
     
 }
 
 template <class T>
-void remove(T elem){
+void SimpleVector::remove(T elem){
     
 }
 
 template <class T>
-bool find(T elem, int& pos){
+bool SimpleVector::find(T elem, int& pos){
     
 }
 
 template <class T>
-T& operator[] (int index){
+T& SimpleVector::operator[] (int index){
     
 }
 
